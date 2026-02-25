@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("This is a change in the code. Modified once again :p")
+﻿void MyFirstMethod()
+{
+    //Do something.
+}
+
+void MySecondMethod()
+{
+    //Do something else.
+}
+
+void MyThirdMethod()
+{
+    //Does something else.
+}
